@@ -6,14 +6,14 @@ My emacs configuration files. Probably not helpful to anyone but me, but feel fr
 ## Goodies
 
 * auto-complete
-* Ocaml syntax highlighting (tuareg mode)
+* OCaml syntax highlighting (tuareg mode)
 * *molokai* and *solarized* color themes
 * fixme highlighting (highlights `TODO`, `FIXME`, etc.)
 * unbound (adds `M-x describe-unbound-keys` command)
 * shortcuts
     * `C-c l` go to line
-    * `C-c c` comment line (in Ocaml)
-    * `C-c C` uncomment line (in Ocaml)
+    * `C-c c` comment line (in OCaml)
+    * `C-c C` uncomment line (in OCaml)
     * `C-c v` comment visual block
     * `C-c V` uncomment visual block
 
