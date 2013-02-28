@@ -1,7 +1,7 @@
 emacs
 =====
 
-My emacs configuration files. Probably not helpful to anyone but me, but feel free to use whatever configurations I have.
+My emacs configuration files. I prefer ViM, but Emacs has a nice toplevel for OCaml. Probably not helpful to anyone but me, but feel free to use whatever configurations I have.
 
 ## Goodies
 
